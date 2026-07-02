@@ -1,6 +1,7 @@
 # Environment variables
 .env
 .env.*
+.lock
 !.env.example
 
 # Python
